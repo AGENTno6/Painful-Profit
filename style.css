@@ -1,4 +1,25 @@
 body{
     background-color: black;
     color: azure;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Delicious Handrawn', cursive;
+    font-family: 'Sedgwick Ave Display', cursive;  
+    letter-spacing: 4px;
+    font-size: 5em;
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+a:hover{
+    color: orange;
 }
